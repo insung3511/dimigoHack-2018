@@ -12,6 +12,9 @@ hex에서 dimi라고 적힌 글자를 찾아보면 아마 아래와 같은 부�
 위에 dimi 라고 적힌것 위에 #Welcome_reversing이 나와있고 아래에는 GO INPUT 이라고 적혀 있는것을 확인하고 #Welcome_reversing을 dimi{ } 안에 넣어서 최종적인 flag를 얻을수가 있었다. ~~개빡치는문제중하나..~~ </br>
 </br>
 
+## init
+init은 문제에서 nc 주소를 제공을 해준다. 이에 접속 접속으로 하면 <strong> [W]rite / [R]ead / [E]xit </strong> 이 나옵니다. </br>
+
 ## Contact me
 ----------------------------------------
 If you have problem about this code, then contect me. </br>
