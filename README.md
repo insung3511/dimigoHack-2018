@@ -31,7 +31,7 @@ Google Drive 링크를 하나 준다. 링크에는 rsp.apk 파일을 제공해�
 <pre>
   flag{ }
 </pre> 
-로 되었다. 
+로 되어 있다. 그러니 <strong> 어씨? 이거 왜 다르냐? </strong> 이러진 말아. 
 
 
 ## Contact me
